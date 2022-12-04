@@ -22,7 +22,7 @@ class SearchVC: UIViewController, UITextFieldDelegate {
         configureTextField()
         configureCallActionButton()
         createDismissKeyboardTapGesture()
-        usernameTextField.text = "kadiralev1"
+        usernameTextField.text = "sevvalalev"
     }
     
     override func viewWillAppear(_ animated: Bool) {
